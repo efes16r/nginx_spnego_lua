@@ -1,6 +1,5 @@
 FROM alpine
 
-ENV ALPINE_VERSION v3.20
 ENV NGINX_VERSION 1.26.2
 ENV NGINX_PREFIX /etc/nginx
 ENV TMP_DIR /tmp/build_tmp
